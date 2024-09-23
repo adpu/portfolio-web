@@ -1,0 +1,46 @@
+{
+    "Menu": {
+      "menu1": "Productes",
+      "menu2": "Empresa",
+      "menu3": "Contacte"
+    },
+  "Company": {
+      "company1": "Acme és una empresa pionera en el moviment de vida sostenible, especialitzada en el disseny i construcció de cases petites modernes i respectuoses amb el medi ambient. Fundada el 2010 per un grup d’arquitectes i entusiastes de l’ecologia, la companyia va néixer amb el desig de crear espais de vida assequibles i minimalistes que harmonitzessin amb la natura, tot oferint funcionalitat i confort.",
+      "company2": "Amb els anys, Acme s’ha convertit en un líder de la indústria de les cases petites, construint centenars de cases a mida per a clients que busquen un estil de vida més sostenible i fora de la xarxa convencional. Les seves cases estan construïdes amb materials ecològics, amb dissenys eficients energèticament i sistemes alimentats per energia solar que redueixen l'impacte ambiental. La missió de l'empresa és redefinir què significa viure bé oferint cases boniques i eficients en l'ús de l'espai que promoguin la senzillesa i la llibertat.",
+      "company3": "Amb més d’una dècada d’experiència, Acme es distingeix pel seu servei personalitzat al client, treballant estretament amb ells per dissenyar cases que reflecteixin les seves necessitats i valors. El seu equip d'experts dissenyadors i constructors s’assegura que cada casa sigui una creació única, dissenyada per maximitzar l’espai sense renunciar al confort. Acme creu en el poder de la vida en petit per transformar vides i contribuir a un futur més verd i sostenible per a tothom."
+    },
+    "Contact": {
+      "contact1": "Parla'ns del teu projecte",
+      "contact2": "Contacta amb Acme per començar el teu camí cap a una vida sostenible! Tant si busques una casa petita a mida, com si necessites assessorament expert en dissenys ecològics o tens preguntes sobre el nostre procés de construcció, estem aquí per ajudar-te. Creem l’espai perfecte per al teu estil de vida únic!",
+      "contact3": "Contacta'ns",
+      "contact4": "Segueix-nos"
+    },
+    "Cookies": {
+      "cookies1": "Política de cookies",
+      "cookies2": "En compliment de la Llei 34/2002, de data 11 de juliol, de serveis de la societat de la informació i del comerç electrònic, acme informa als seus usuaris de la utilització de cookies de pròpies i de sessió per millorar el servei prestat.",
+      "cookies3": "Què són les Cookies?",
+      "cookies4": "Una cookie és un fitxer que es descarrega en el seu ordinador en accedir a determinades pàgines webs. Les cookies permeten a una pàgina web, entre d’altres, emmagatzemar i recuperar informació sobre els hàbits de navegació d’un usuari o del seu equip per, en funció del tipus de navegació, poder oferir un millor servei a través de la pàgina web.",
+      "cookies5": "Quin tipus de Cookies utilitza aquesta pàgina web i quines són les seves finalitats?",
+      "cookies6": "Cookies tècniques: Són aquelles que permeten a l’usuari la navegació a través d’una pàgina web, plataforma o aplicació i la utilització de les diferents opcions o serveis que en ella existeixin. Per exemple: Controlar el tràfic i la comunicació de dades, identificar la sessió, accedir a parts d’accés restringides, recordar els elements que integren una comanda, etc.",
+      "cookies7": "Cookies analítiques: Són aquelles que permeten al responsable de les mateixes, el seguiment i l’anàlisi del comportament dels usuaris dels llocs web als quals estan vinculades. La informació recollida mitjançant aquest tipus de cookies s’utilitza en el mesurament de l’activitat dels llocs web, aplicació o plataforma i per a l’elaboració de perfils de navegació dels usuaris d’aquests llocs, aplicacions i plataformes, a fi d’introduir millores a funció de l’anàlisi de les dades d’ús que fan els usuaris del servei.",
+      "cookies9": "Permetre, bloquejar o eliminar les Cookies"
+    },
+    "Privacy": {
+      "privacy1": "Política de privacitat",
+      "privacy2": "En acme, reconeixem la importància de protegir la seva informació personal i estem compromesos a tractar-la amb responsabilitat i de conformitat amb les lleis de protecció de dades.",
+      "privacy3": "La present política de privacitat pretén regular tots els aspectes relatius al tractament de dades dels diferents usuaris que naveguen o faciliten les seves a través dels diferents formularis situats en la web.",
+      "privacy4": "Dades Personals",
+      "privacy5": "Una dada personal, és la informació que l’identifica o el fa identificable. A través de la web, en les caselles establertes a tal efecte recollim les dades personals que l’usuari ens comunica: Nom, cognoms, correu electrònic, telèfon, direcció postal, població, etc.així com totes aquelles dades que voluntàriament ens proporcioni a través de qualsevol de les xarxes socials de les quals l’usuari està registrat. En aquest cas, la privacitat dependrà de la configuració establerta pel mateix usuari així com dels termes i condicions de la pròpia xarxa social.",
+      "privacy6": "La visita de l’usuari a la web no implica que hagi de facilitar cap informació sobre les seves dades personals. No obstant això, en cas de facilitar-les, les dades seran tractades de forma lícita de conformitat en tot moment als principis i drets recollits en el RGPD 2016/679 de 26 d’abril i la LOPDGDD 3/2018 del 5 de desembre.",
+      "privacy7": "Finalitat, duració i legitimació del tractament",
+      "privacy8": "Millorar la seva experiència en navegar per la web. Aquestes dades els conservarem mentre l’usuari no revoqui el seu consentiment al tractament d’aquestes eliminant les cookies i durant el temps establert per la llei amb una durada mínima de 3 anys. La base de legitimació per a millorar la seva experiència en navegar per la web és el consentiment que atorga l’usuari en acceptar les cookies. L’usuari té dret a revocar el seu consentiment en qualsevol moment sense que això afecti la licitud del tractament basat en el consentiment previ a la seva retirada.",
+      "privacy9": "Gestionar les nostres xarxes socials i enviar-li informació sobre les nostres activitats i productes. Aquestes dades les conservarem mentre l’usuari no revoqui el seu consentiment al tractament d’aquestes i durant el temps establert per la llei amb una durada mínima de 3 anys."
+    },
+    "Routes":{
+     "route-company": "empresa",
+     "route-contact": "contacte",
+     "route-privacy":"politica-privacitat",
+     "route-cookies":"politica-cookies",
+     "route-products": "productes"
+    }
+  }

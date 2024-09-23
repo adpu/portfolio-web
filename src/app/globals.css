@@ -1,0 +1,122 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+img{
+  max-width:100%;
+  height:auto;
+}
+.image-me {
+  border-radius: 16px;
+  max-width: 100%;
+  object-fit: cover;
+  filter: grayscale(100%);
+}
+
+.link-menu-popi span {
+  position: relative;
+  padding-bottom: 2px;
+  border-bottom-width: 0rem;
+  display: inline-block;
+  transition: all .2s linear;
+  -moz-transition: all .2s linear;
+  -webkit-transition: all .2s linear;
+  -o-transition: all .2s linear;
+}
+
+.link-menu-popi span::before {
+  content: '';
+  position: absolute;
+  z-index: 0;
+  left: 0;
+  right: 100%;
+  bottom: 0;
+  background: #000;
+  height: 1px;
+  -webkit-transition-property: right;
+  transition-property: right;
+  -webkit-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+
+.link-menu-popi span:hover:before {
+  right: 0 !important;
+}
+
+.height-contact {
+  min-height: calc(100vh - 345px);
+}
+
+
+
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../../public/fonts/icomoon.eot?yde68we');
+  src:  url('../../public/fonts/icomoon.eot?yde68we#iefix') format('embedded-opentype'),
+    url('../../public/fonts/icomoon.ttf?yde68we') format('truetype'),
+    url('../../public/fonts/icomoon.woff?yde68we') format('woff'),
+    url('../../public/fonts/icomoon.svg?yde68we#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-logo:before {
+  content: "\e901";
+}
+.icon-logo-mobile:before {
+  content: "\e900";
+}
+.icon-close-button:before {
+  content: "\e902";
+}
+.icon-hamburguer-menu:before {
+  content: "\e903";
+}
+.icon-arrow-up:before {
+  content: "\e904";
+}
+.icon-world:before {
+  content: "\e905";
+}

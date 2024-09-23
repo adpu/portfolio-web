@@ -1,0 +1,47 @@
+{
+  "Menu": {
+    "menu1": "Products",
+    "menu2": "Company",
+    "menu3": "Contact"
+  },
+  "Company": {
+    "company1": "Acme is a pioneering company in the sustainable living movement, specializing in the design and construction of modern, eco-friendly tiny houses. Established in 2010 by a group of architects and environmental enthusiasts, the company was born out of a desire to create affordable, minimalist living spaces that harmonize with nature while offering functionality and comfort.",
+    "company2": "Over the years, Acme has become a leader in the tiny house industry, building hundreds of custom homes for clients seeking a more sustainable, off-grid lifestyle. Their homes are constructed using eco-conscious materials, with energy-efficient designs and solar-powered systems that reduce environmental impact. The company’s mission is to redefine what it means to live well by offering beautiful, space-efficient homes that promote simplicity and freedom.",
+    "company3": "With over a decade of experience, Acme prides itself on its personalized customer service, working closely with clients to design homes that reflect their needs and values. Their team of expert designers and builders ensures every home is a unique creation, crafted to maximize space while providing comfort. Acme believes in the power of small living to transform lives and contribute to a greener, more sustainable future for all."
+  },
+  "Contact": {
+    "contact1": "Tell us about your project",
+    "contact2": "Contact Acme to start your journey toward sustainable living! Whether you’re looking for a custom tiny home, need expert advice on eco-friendly designs, or have questions about our building process, we’re here to help. Let’s create the perfect small space for your unique lifestyle!",
+    "contact3": "Get in touch",
+    "contact4": "Follow us"
+  },
+  "Cookies": {
+    "cookies1": "Cookies Policy",
+    "cookies2": "In compliance with Law 34/2002, of 11 July, on information society services and electronic commerce, adpu.net informs its users of the use of its own and session cookies to improve the service provided.",
+    "cookies3": "What are Cookies?",
+    "cookies4": "A cookie is a file that is downloaded to your computer when you access certain web pages. Cookies allow a website, among other things, to store and retrieve information about the browsing habits of a user or their computer so that, depending on the type of browsing, they can offer a better service through the website.",
+    "cookies5": "What types of cookies does this website use and what are their purposes?",
+    "cookies6": "Technical cookies: These are those that allow the user to navigate through a web page, platform or application and use the different options or services that it exist. For example: Controlling traffic and data communication, identifying the session, accessing restricted access parts, remembering the elements that make up an order, and'",
+    "cookies7": "Analytical cookies: These are those that allow the person responsible for them to track and analyze the behavior of users of the websites to which they are linked. The information collected through this type of cookie is used to measure the activity of websites, applications or platforms and to create browsing profiles of users of these sites, applications and platforms, in order to introduce improvements based on the analysis of usage data by service users.",
+    "cookies9": "Allow, block or delete cookies"
+  },
+  "Privacy": {
+    "privacy1": "Privacy policy",
+    "privacy2": "At acme, we recognise the importance of protecting your personal information and we are committed to processing it responsibly and in compliance with the data protection laws.",
+    "privacy3": "The purpose of this privacy policy is to regulate all the aspects relating to the processing of data of the different users browsing the website or providing their personal details on the different forms to be found on it.",
+    "privacy4": "Personal Data",
+    "privacy5": "Personal Data is the information that identifies you or may identify you. Through the website, in the boxes that are stablished for that purpose, it is collected the personal data that the User provides us: Name, surname, email, telephone number, postal code, city, etc. In addition, it is collected all the personal data that the User voluntarily provides us through any of the social networks, of which the User is registered. In this case, the privacy settings will depend on both the configuration that the User established as well as the terms and conditions of the social network itself.",
+    "privacy6": "When a user visits the website, this does not mean that he/she has to provide any information about his/her personal data. However, if such information is provided, the data will be processed lawfully and subject at all times to the principles and rights contained in the GDPR 2016/679 of 27 April 2016 and the LOPDGDD 3/2018 of 5 December.",
+    "privacy7": "Purpose, duration and legitimation of the processing",
+    "privacy8": "To improve the user experience when browsing the website. We will keep these data for as long as the user does not revoke his/her consent to them being processed by deleting the cookies, for the time established by law and for a minimum duration of 3 years. The legitimate basis for improving website browsing is the consent given by the user when accepting the cookies. The user has the right to revoke his/her consent at any time, without this affecting the lawfulness of the processing based on the consent given prior to it being withdrawn.",
+    "privacy9": "To manage our social networks and send users information about our activities and products. We will keep these data for as long as the user does not revoke his/her consent to them being processed, for the time established by law and for a minimum duration of 3 years. The legitimate basis for managing our social networks and sending users our activities and new features is the consent we are given to do so. The user has the right to revoke his/her consent at any time, without this affecting the lawfulness of the processing based on the consent given prior to it being withdrawn."
+  },
+  "Routes":{
+     "route-company": "company",
+     "route-contact": "contact",
+     "route-privacy":"privacy-policy",
+     "route-cookies":"cookies-policy",
+     "route-products": "products"
+    }
+   
+  }
